@@ -1,110 +1,163 @@
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ
-📝 License
-📖 [Portfolio-project]
+<a name="readme-top"></a>
+
+<div align="center">
+  <h3><b>PORTFOLIO</b></h3>
+
+</div>
+
+
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+# 📖 [Portfolio-project] <a name="Portfolio-project"></a>
+
 Portfolio Project is mandatory to every student at Microverse, and it is one of the product that helps a student to job market. It has the followinf files: a README file, html, css, gitignore, linters
 
-[Portfolio-project] is a...
+**[Portfolio-project]** is a...
 
-🛠 Built With
-Tech stack client: HTML and CSS
+## 🛠 Built With <a name="built-with"></a>
+**Tech stack**
+**client:**
+  HTML and CSS
+### Tech Stack <a name="tech-stack"></a>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-Tech Stack
-Client
-Server
-Database
-Key Features
-[user_friendy]
-[fast]
-(back to top)
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
 
-🚀 Live Demo
-Live Demo Link
-(back to top)
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
-💻 Getting Started
+### Key Features <a name="key-features"></a>
+
+- **[user_friendy]**
+- **[fast]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
 To get a local copy up and running, follow these steps.
 
-Prerequisites
+### Prerequisites
+
 In order to run this project you need:
 
 gem install rails
 
-Setup
-Clone this repository to your desired folder and run it using a browser. Usage To run this project you need a code editor and browser
+### Setup
 
-Install
+Clone this repository to your desired folder and run it using a browser. Usage To run this project you need a code editor and browser
+### Install
+
 Install this project with: program.exe file
 
-Usage
+
+
+### Usage
+
 To run the project, execute the following command: program.exe file
 
-Run tests
+
+
+### Run tests
+
 To run tests, run the following command: program.exe
 
-Deployment
+### Deployment
+
 You can deploy this project using: Google Chrome
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👥 Author
+
+## 👥 Author <a name="authors"></a>
 Trevor:
+- GitHub: [@valt19]
+- Twitter: [@OdekeTrevor]
+- LinkedIn: [@TrevorOdeke]
 
-GitHub: @valt19
-Twitter: @OdekeTrevor
-LinkedIn: @TrevorOdeke
-(back to top)
 
-🔭 Future Features
- [client-login] [search-box] [Background-videos]
-(back to top)
 
-🤝 Contributing
-Feel free to check the issues page.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
+## 🔭 Future Features <a name="future-features"></a>
 
-If you like this project...
 
-(back to top)
+- [ ] **[client-login]**
+**[search-box]**
+**[Background-videos]**
 
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
+## 🤝 Contributing <a name="contributing"></a>
 
-❓ FAQ
-Add at least 2 questions new developers would ask when they decide to use your project.
+feel free to add any concerns you have with the project
+Feel free to check the [issues page](../../issues/).
 
-[Question_1]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[Answer_1]
-[Question_2]
+## ⭐️ Show your support <a name="support"></a>
 
-[Answer_2]
-(back to top)
+> Write a message to encourage readers to support your project
 
-📝 License MIT
-This project is MIT licensed.
+If you like this project please follow my github account : @valt19
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank Agaba JohnMark for helping finish this project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License <a name="MIT"> MIT</a>
+
+This project is [MIT](./LICENSE) licensed.
