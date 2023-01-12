@@ -111,9 +111,9 @@ You can deploy this project using: Google Chrome
 
 ## 👥 Author <a name="authors"></a>
 Trevor:
-- GitHub: [@valt19]
-- Twitter: [@OdekeTrevor]
-- LinkedIn: [@TrevorOdeke]
+- GitHub: @valt19
+- Twitter: @OdekeTrevor
+- LinkedIn: @TrevorOdeke
 
 
 
