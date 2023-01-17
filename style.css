@@ -1,20 +1,100 @@
 .contact{
-  background-image: url('images/header-shapes\ mobile.png'), url('images/Contact\ me.svg');
+  background-image: url('/images/contact\ form\ shapes-mobile@2x.svg'), url('images/Contact\ me.svg');
   background-repeat: no-repeat, no-repeat;
   background-size: 265px 709px, 375px 779px;
-  background-position: center, center;
+  background-position: 130px, center;
   width: 375px;
   height: 779px;
-  
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.te{
-  
+.contact-text {
+  font-size: 40px;
+  font-weight: 700;
+  font-family: 'poppins';
+  font-style: normal;
+  line-height: 52px;
+  color: #ffffff;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  margin-top: 130px;
 }
+
+.par-container {
+  width: 327px;
+}
+
+.par-contact {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'poppins';
+  font-style: normal;
+  line-height: 28px;
+  color: #ebebff;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.name {
+  width: 327px;
+  height: 48px;
+  border-radius: 8px;
+  border: 1px solid #cfd8dc;
+  background: #ffffff;
+  padding-left: 10px;
+}
+
+.mail {
+    width: 327px;
+    height: 48px;
+    border-radius: 8px;
+    border: 1px solid #cfd8dc;
+    background: #ffffff;
+    padding-left: 10px;
+
+}
+
+.msg {
+  width: 327px;
+  height: 170px;
+  border: 1px solid #cfd8dc;
+  background: #ffffff;
+  border-radius: 8px;
+  padding-left: 10px;
+  padding-top: 15px;
+}
+
+.but-container {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  width: 140px;
+  height: 48px;
+  color: #6070ff;
+  font-size: 17px;
+  font-weight: 500;
+  font-family: 'poppins';
+  font-style: normal;
+  line-height: 24px;
+  letter-spacing: 0.03px;
+  text-align: center;
+  border-radius: 8px;
+  border: 0px;
+  margin-right: 40px;
+  align-self: center;
+  justify-self: center;
+}
+
+
 form {
   margin: 0 auto;
-  width: 400px;
+  width: 375px;
   padding: 1em;
-  border: 1px solid #ccc;
   border-radius: 1em;
 }
 
@@ -28,11 +108,6 @@ form li + li {
   margin-top: 1em;
 }
 
-label {
-  display: inline-block;
-  width: 90px;
-  text-align: right;
-}
 
 input,
 textarea {
@@ -273,7 +348,7 @@ a { text-decoration: none; }
 
 .section6 {
   width: 375px;
-  height: 1000px;
+  height: auto;
   background: #fff;
   box-sizing: border-box;
   display: flex;
