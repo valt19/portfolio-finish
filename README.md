@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>PORTFOLIO</b></h3>
 
 </div>
 
@@ -26,7 +26,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 # 📖 [Portfolio-project] <a name="Portfolio-project"></a>
@@ -112,9 +111,9 @@ You can deploy this project using: Google Chrome
 
 ## 👥 Author <a name="authors"></a>
 Trevor:
-- GitHub: [@valt19](https://github.com/valt19)
-- Twitter: [@OdekeTrevor](https://twitter.com/home)
-- LinkedIn: [@TrevorOdeke](https://www.linkedin.com/feed/)
+- GitHub: @valt19
+- Twitter: @OdekeTrevor
+- LinkedIn: @TrevorOdeke
 
 
 
@@ -133,7 +132,7 @@ Trevor:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-
+feel free to add any concerns you have with the project
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -142,7 +141,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please follow my github account : @valt19
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,22 +150,10 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Agaba JohnMark for helping finish this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
