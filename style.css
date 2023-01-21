@@ -218,12 +218,14 @@ a { text-decoration: none; }
   flex: none;
   order: 1;
   flex-grow: 0;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
-.connect{
-  margin-top: 0px;
-  margin-bottom: 0px;
+
+.connect {
+  margin-top: 0;
+  margin-bottom: 0;
 }
+
 .lets {
   width: 117px;
   height: 24px;
@@ -264,13 +266,14 @@ a { text-decoration: none; }
   margin-top: 0;
   padding-top: 0;
 }
-.nav-list{
-  display:inline-flex;
+
+.nav-list {
+  display: inline-flex;
   flex-direction: row;
   gap: 10px;
   justify-content: flex-end;
-
 }
+
 .card_item {
   border: 1px solid rgb(241, 234, 234);
   border-radius: 10px;
@@ -389,9 +392,10 @@ a { text-decoration: none; }
   border: 1px solid rgb(241, 234, 234);
   border-radius: 10px;
   font-family: 'Poppins', Arial, sans-serif;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 0;
+  margin-right: 0;
 }
+
 .la {
   font-family: 'Poppins', Arial, sans-serif;
   font-style: normal;
